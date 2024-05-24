@@ -8,7 +8,7 @@
 
 - **Quản Lý Tài Khoản Người Dùng**
   - Đăng ký, Đăng nhập, Đổi mật khẩu
-  - Chỉnh sửa và Xóa tài khoản
+  - Xóa tài khoản
 
 - **Quản Lý Phòng và Dịch Vụ**
   - Hiển thị, Tạo mới, Chỉnh sửa, Xóa phòng
