@@ -10,9 +10,9 @@
   - Đăng ký, Đăng nhập, Đổi mật khẩu
   - Xóa tài khoản
 
-- **Quản Lý Phòng và Dịch Vụ**
+- **Quản Lý Phòng**
   - Hiển thị, Tạo mới, Chỉnh sửa, Xóa phòng
-  - Quản lý các dịch vụ cung cấp
+  - Quản lý các danh mục phòng
 
 - **Quản Lý Đơn Đặt Phòng**
   - Đặt phòng trực tuyến
