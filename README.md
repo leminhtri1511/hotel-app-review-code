@@ -2,7 +2,7 @@
 
 ## Giới Thiệu
 
-Đây là một ứng dụng di động dựa trên Flutter, được thiết kế để tối ưu hóa các tác vụ quản lý khách sạn. Ứng dụng cung cấp nhiều tính năng giúp cải thiện hiệu suất và sự hài lòng của khách hàng trong ngành dịch vụ lưu trú.
+Đây là một ứng dụng di động dựa trên Flutter, được thiết kế để tối ưu hóa các tác vụ quản lý khách sạn. Ứng dụng cung cấp nhiều tính năng giúp cải thiện hiệu suất và sự hài lòng của khách hàng trong ngành dịch vụ.
 
 ## Tính Năng
 
